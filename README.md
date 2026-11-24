@@ -45,7 +45,7 @@ Adicione a seguinte dependência ao arquivo `pom.xml`:
 A organização recomendada para o projeto Maven é:
 
 ```
-CadastroMySQL/
+cadastropessoas_java_mysql/
 │
 ├── pom.xml
 ├── .gitignore
