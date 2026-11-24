@@ -255,3 +255,5 @@ Com este projeto, são explorados os seguintes conceitos:
 O projeto apresenta uma aplicação prática de integração entre Java e MySQL, permitindo compreender como uma aplicação pode realizar operações de persistência de dados em um banco de dados relacional.
 
 A implementação demonstra as principais operações de manipulação de dados utilizando JDBC e comandos SQL, servindo como ponto de partida para o desenvolvimento de aplicações mais completas com Java, Maven e MySQL.
+
+Compare a diferença de se trabalhar com um banco de dados NoSQL no projeto:https://github.com/osmarbraz/cadastropessoas_java_mongodb/
